@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "u9fd5PLkV3+QCUKIJ11Zxdain5EAvgrvkFllgsZ+JNA4rzL4SvZwvTjyqIHf3c4hoFTTP20+CzG74Yp1H+H1yA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\babta\\OneDrive\\Desktop\\VRlab1\\ray-tracer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\babta\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0-rc.2.23479.6\\microsoft.win32.systemevents.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\babta\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
